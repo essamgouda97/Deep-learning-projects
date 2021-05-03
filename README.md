@@ -9,3 +9,5 @@ To download alberta wildlife multi-image classification:
 ```unzip -q kagglecatsanddogs_3367a.zip```
 
 For the wine dataset it could be found in the data folder.
+
+Tensorboard logs could be found in the logs directory
